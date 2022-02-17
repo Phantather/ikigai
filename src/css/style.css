@@ -111,7 +111,7 @@ a {
         width: 145px;
         margin: 10px 0;
     }
-    .content__row {
+    .content__card {
         margin-bottom: 25px;
     }
     .content__row:last-child {
