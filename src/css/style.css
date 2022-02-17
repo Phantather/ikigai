@@ -87,6 +87,9 @@ a {
 }
 
 @media (max-width: 375px) {
+    .content__row {
+        row-gap: 2rem;
+    }
     .header__content {
         display: block;
     }
