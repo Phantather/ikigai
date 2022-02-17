@@ -1,0 +1,36 @@
+.posts {
+    padding: 30px 0 100px;
+    background-color: #e5e5e5;
+}
+.posts__content{
+    display: flex;
+    justify-content: center;
+}
+
+.posts__card{
+    max-width: 900px;
+    width: 100%;
+    background-color: white;
+}
+
+.posts__card-img {
+    width: 100%;
+}
+
+.posts__user {
+    padding: 30px 20px;
+}
+
+.posts__user-social{
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.posts__user-cat {
+    margin-bottom: 15px;
+}
+
+.posts__user-subtitle{
+    margin: 15px 0;
+}
