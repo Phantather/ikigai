@@ -114,7 +114,7 @@ a {
     .content__card {
         margin-bottom: 25px;
     }
-    .content__row:last-child {
+    .content__card:last-child {
         margin-bottom: 0
     }
     .content__user-social {
