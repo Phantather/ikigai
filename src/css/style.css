@@ -20,6 +20,8 @@ a {
 }
 
 
+
+
 @media  (max-width: 720px) {
     .header__content-logo {
         width: 50px;
